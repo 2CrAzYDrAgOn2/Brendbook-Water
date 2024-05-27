@@ -92,3 +92,7 @@ table.layout {
         width: 100%;
     }
 }
+
+.right-column {
+    text-align: center;
+}
